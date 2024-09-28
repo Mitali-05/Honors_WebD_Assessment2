@@ -1,3 +1,5 @@
+//I have used composer dump-autoload command to use autoload function so that we don't have to write require sentences repeatedly.
+
 {
     "require": {
       
